@@ -2,8 +2,7 @@
 version=1
 
 [launcher]
-version=1.12.0
-project_name="atelier_interco"
+version=1.11.1
 
 [editor]
 channel=official
